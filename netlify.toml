@@ -8,10 +8,16 @@
   from = "/zh-hans"
   to = "https://greasyfork.org.cn/zh-hans"
   status = 301
+  force = true  
+
+[[redirects]]
+  from = "/zh-hans/*"
+  to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/:splat"
+  status = 200
   force = true
-  
+
 [[redirects]]
   from = "/*"
-  to = "https://xdrcgfn.dahi.edu.eu.org/:splat"
-  status = 200
+  to = "https://greasyfork.org.cn/:splat"
+  status = 307
   force = true

@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/"
+  to = "https://dahisea.github.io/GF-WWW/"
+  status = 200
+  force = true
+  
+[[redirects]]
+  from = "/*"
+  to = "https://xdrcgfn.dahi.edu.eu.org/:splat"
+  status = 200
+  force = true

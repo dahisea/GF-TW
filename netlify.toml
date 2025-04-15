@@ -1,7 +1,13 @@
 [[redirects]]
   from = "/"
-  to = "https://dahisea.github.io/GF-WWW/"
-  status = 200
+  to = "https://greasyfork.org.cn/zh-hans"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/zh-hans"
+  to = "https://greasyfork.org.cn/zh-hans"
+  status = 301
   force = true
   
 [[redirects]]

@@ -23,6 +23,12 @@
   force = true
 
 [[redirects]]
+  from = "/*/scripts/"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
   from = "/zh-hans/*"
   to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/:splat"
   status = 200

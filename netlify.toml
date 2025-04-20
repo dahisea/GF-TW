@@ -14,6 +14,12 @@
   from = "/*/moderator_actions*"
   to = "/zh-hans"
   status = 307
+  force = true  
+
+[[redirects]]
+  from = "/scripts/481396*"
+  to = "/zh-hans"
+  status = 307
   force = true
 
 [[redirects]]

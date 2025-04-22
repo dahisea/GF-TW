@@ -23,6 +23,24 @@
   force = true
 
 [[redirects]]
+  from = "/*/scripts/533633*"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
+  from = "/*/scripts/39828"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
+  from = "/*/scripts/39828/*"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
   from = "/*/users/"
   to = "/zh-hans"
   status = 307

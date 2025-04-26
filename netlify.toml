@@ -11,6 +11,24 @@
   force = true  
 
 [[redirects]]
+  from = "/ads.txt"
+  to = "https://thepage-gfork.zh-hk.eu.org/ads.txt"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/404"
+  to = "https://thepage-gfork.zh-hk.eu.org/404"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/favicon.ico"
+  to = "https://thepage-gfork.zh-hk.eu.org/favicon.ico"
+  status = 308
+  force = true
+
+[[redirects]]
   from = "/*/moderator_actions*"
   to = "/zh-hans"
   status = 307

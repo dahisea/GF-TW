@@ -66,13 +66,13 @@
 
 [[redirects]]
   from = "/redirect/to"
-  to = "https://thepage-gfork.zh-hk.eu.org/redirect/to"
+  to = "https://greasyfork.org.cn/redirect/to"
   status = 308
   force = true
 
 [[redirects]]
   from = "/redirect/"
-  to = "https://thepage-gfork.zh-hk.eu.org/redirect/"
+  to = "https://greasyfork.org.cn/redirect/"
   status = 308
   force = true
 

@@ -77,6 +77,12 @@
   force = true
 
 [[redirects]]
+  from = "/zh-hans/help/*"
+  to = "https://home.greasyfork.org.cn/zh-hans/help/:splat"
+  status = 308
+  force = true
+
+[[redirects]]
   from = "/zh-hans/*"
   to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/:splat"
   status = 200

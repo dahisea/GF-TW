@@ -8,7 +8,13 @@
   from = "/zh-hans"
   to = "https://greasyfork.org.cn/zh-hans"
   status = 301
-  force = true  
+  force = true
+  
+[[redirects]]
+  from = "/s"
+  to = "https://thepage-gfork.zh-hk.eu.org/searchw"
+  status = 200
+  force = true
 
 [[redirects]]
   from = "/ads.txt"

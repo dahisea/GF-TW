@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/"
-  to = "https://greasyfork.org.cn/zh-hans"
-  status = 301
+  to = "https://zh-tw.eu.org/"
+  status = 200
   force = true
 
 [[redirects]]

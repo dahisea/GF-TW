@@ -77,6 +77,12 @@
   force = true
 
 [[redirects]]
+  from = "/rails/*"
+  to = "https://xdrcgfn.dahi.edu.eu.org/rails/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
   from = "/*/moderator_actions*"
   to = "/zh-hans"
   status = 307

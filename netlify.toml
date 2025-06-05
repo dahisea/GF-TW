@@ -156,5 +156,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://greasyfork.org.cn/:splat"
+  to = "https://home.greasyfork.org.cn/:splat"
   status = 307

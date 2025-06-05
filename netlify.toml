@@ -9,13 +9,13 @@
   to = "https://greasyfork.org.cn/zh-hans"
   status = 301
   force = true
-  
+
 [[redirects]]
   from = "/s"
   to = "https://thepage-gfork.zh-hk.eu.org/searchw"
   status = 200
   force = true
-  
+
 [[redirects]]
   from = "/p/1E3F8A9F-DDC6-4D76-B101-5683AA13E349"
   to = "https://dgkkhxhkj.dahi.edu.eu.org/zh-CN/scripts.json"
@@ -29,14 +29,62 @@
 
 [[redirects]]
   from = "/404"
-  to = "https://thepage-gfork.zh-hk.eu.org/404"
+  to = "https://thepage-gfork.zh-hk.eu.org/default"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "https://thepage-gfork.zh-hk.eu.org/sitemap.xml"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/site.webmanifest"
+  to = "https://thepage-gfork.zh-hk.eu.org/site.webmanifest"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/favicon-32x32.png"
+  to = "https://thepage-gfork.zh-hk.eu.org/favicon-32x32.png"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/favicon-16x16.png"
+  to = "https://thepage-gfork.zh-hk.eu.org/favicon-16x16.png"
   status = 200
   force = true
 
 [[redirects]]
   from = "/favicon.ico"
   to = "https://thepage-gfork.zh-hk.eu.org/favicon.ico"
-  status = 308
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/apple-touch-icon.png"
+  to = "https://thepage-gfork.zh-hk.eu.org/apple-touch-icon.png"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/android-chrome-512x512.png"
+  to = "https://thepage-gfork.zh-hk.eu.org/android-chrome-512x512.png"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/android-chrome-192x192.png"
+  to = "https://thepage-gfork.zh-hk.eu.org/android-chrome-192x192.png"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/vite/assets/*"
+  to = "https://thepage-gfork.zh-hk.eu.org/vite/assets/:splat"
+  status = 200
   force = true
 
 [[redirects]]

@@ -12,67 +12,67 @@
 
 [[redirects]]
   from = "/ads.txt"
-  to = "https://thepage-gfork.zh-hk.eu.org/ads.txt"
+  to = "https://cdn.greasyfork.org.cn/ads.txt"
   status = 200
   force = true
 
 [[redirects]]
   from = "/404"
-  to = "https://thepage-gfork.zh-hk.eu.org/default"
+  to = "https://cdn.greasyfork.org.cn/default"
   status = 200
   force = true
 
 [[redirects]]
   from = "/sitemap.xml"
-  to = "https://thepage-gfork.zh-hk.eu.org/sitemap.xml"
+  to = "https://cdn.greasyfork.org.cn/sitemap.xml"
   status = 200
   force = true
 
 [[redirects]]
   from = "/site.webmanifest"
-  to = "https://thepage-gfork.zh-hk.eu.org/site.webmanifest"
+  to = "https://cdn.greasyfork.org.cn/site.webmanifest"
   status = 200
   force = true
 
 [[redirects]]
   from = "/favicon-32x32.png"
-  to = "https://thepage-gfork.zh-hk.eu.org/favicon-32x32.png"
+  to = "https://cdn.greasyfork.org.cn/favicon-32x32.png"
   status = 200
   force = true
 
 [[redirects]]
   from = "/favicon-16x16.png"
-  to = "https://thepage-gfork.zh-hk.eu.org/favicon-16x16.png"
+  to = "https://cdn.greasyfork.org.cn/favicon-16x16.png"
   status = 200
   force = true
 
 [[redirects]]
   from = "/favicon.ico"
-  to = "https://thepage-gfork.zh-hk.eu.org/favicon.ico"
+  to = "https://cdn.greasyfork.org.cn/favicon.ico"
   status = 200
   force = true
 
 [[redirects]]
   from = "/apple-touch-icon.png"
-  to = "https://thepage-gfork.zh-hk.eu.org/apple-touch-icon.png"
+  to = "https://cdn.greasyfork.org.cn/apple-touch-icon.png"
   status = 200
   force = true
 
 [[redirects]]
   from = "/android-chrome-512x512.png"
-  to = "https://thepage-gfork.zh-hk.eu.org/android-chrome-512x512.png"
+  to = "https://cdn.greasyfork.org.cn/android-chrome-512x512.png"
   status = 200
   force = true
 
 [[redirects]]
   from = "/android-chrome-192x192.png"
-  to = "https://thepage-gfork.zh-hk.eu.org/android-chrome-192x192.png"
+  to = "https://cdn.greasyfork.org.cn/android-chrome-192x192.png"
   status = 200
   force = true
 
 [[redirects]]
   from = "/vite/assets/*"
-  to = "https://thepage-gfork.zh-hk.eu.org/vite/assets/:splat"
+  to = "https://cdn.greasyfork.org.cn/vite/assets/:splat"
   status = 200
   force = true
 

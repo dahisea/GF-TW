@@ -131,6 +131,12 @@
   force = true
 
 [[redirects]]
+  from = "/*/scripts/by-site/"
+  to = "/zh-hans"
+  status = 307
+  force = true
+
+[[redirects]]
   from = "/zh-hans/help/*"
   to = "https://home.greasyfork.org.cn/zh-hans/help/:splat"
   status = 308

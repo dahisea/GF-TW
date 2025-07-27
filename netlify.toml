@@ -1,10 +1,4 @@
 [[redirects]]
-  from = "/"
-  to = "https://zh-tw.eu.org/"
-  status = 200
-  force = true
-
-[[redirects]]
   from = "/zh-hans"
   to = "https://greasyfork.org.cn/zh-hans"
   status = 301

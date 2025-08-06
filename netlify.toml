@@ -2,157 +2,157 @@
   from = "/zh-hans"
   to = "https://greasyfork.org.cn/zh-hans"
   status = 301
-  force = true
 
 [[redirects]]
   from = "/ads.txt"
   to = "https://cdn.greasyfork.org.cn/ads.txt"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/404"
   to = "https://cdn.greasyfork.org.cn/default"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/sitemap.xml"
   to = "https://cdn.greasyfork.org.cn/sitemap.xml"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/site.webmanifest"
   to = "https://cdn.greasyfork.org.cn/site.webmanifest"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/favicon-32x32.png"
   to = "https://cdn.greasyfork.org.cn/favicon-32x32.png"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/favicon-16x16.png"
   to = "https://cdn.greasyfork.org.cn/favicon-16x16.png"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/favicon.ico"
   to = "https://cdn.greasyfork.org.cn/favicon.ico"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/apple-touch-icon.png"
   to = "https://cdn.greasyfork.org.cn/apple-touch-icon.png"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/android-chrome-512x512.png"
   to = "https://cdn.greasyfork.org.cn/android-chrome-512x512.png"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/android-chrome-192x192.png"
   to = "https://cdn.greasyfork.org.cn/android-chrome-192x192.png"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/vite/assets/*"
   to = "https://cdn.greasyfork.org.cn/vite/assets/:splat"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/rails/*"
   to = "https://xdrcgfn.dahi.edu.eu.org/rails/:splat"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/*/moderator_actions*"
   to = "/zh-hans"
   status = 307
-  force = true  
 
 [[redirects]]
   from = "/*/scripts/481396*"
   to = "/zh-hans"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/*/scripts/533633*"
   to = "/zh-hans"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/*/scripts/39828"
   to = "/zh-hans"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/*/scripts/39828-*"
   to = "/zh-hans"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/*/scripts/39828/*"
   to = "/zh-hans"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/*/users/"
   to = "/zh-hans"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/*/scripts/"
   to = "/zh-hans"
   status = 307
-  force = true
-  
+
+# 語言特別處理
+[[redirects]]
+  from = "/zh-hant/*"
+  to = "/zh-hans/:splat"
+  status = 308
+
+[[redirects]]
+  from = "/zh-TW/*"
+  to = "/zh-hans/:splat"
+  status = 308
+
+[[redirects]]
+  from = "/zh-CN/*"
+  to = "/zh-hans/:splat"
+  status = 308
+
+[[redirects]]
+  from = "/zh-tw/*"
+  to = "/zh-hans/:splat"
+  status = 308
+
+[[redirects]]
+  from = "/zh-cn/*"
+  to = "/zh-hans/:splat"
+  status = 308
+
 [[redirects]]
   from = "/zh-hans/scripts/by-site/*"
   to = "https://home.greasyfork.org.cn/s?q=&sort=&filter_locale=0&site=:splat"
   status = 307
-  force = true
 
 [[redirects]]
   from = "/zh-hans/help/*"
   to = "https://home.greasyfork.org.cn/zh-hans/help/:splat"
   status = 308
-  force = true
 
 [[redirects]]
   from = "/zh-hans/*"
   to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/:splat"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/redirect/to"
   to = "https://greasyfork.org.cn/redirect/to"
   status = 308
-  force = true
 
 [[redirects]]
   from = "/redirect/"
   to = "https://greasyfork.org.cn/redirect/"
   status = 308
-  force = true
 
 [[redirects]]
   from = "/*"

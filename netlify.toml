@@ -130,6 +130,16 @@
   status = 308
 
 [[redirects]]
+  from = "/en/*"
+  to = "https://gfork.zh-hk.eu.org/en/:splat"
+  status = 308
+
+[[redirects]]
+  from = "/ja/*"
+  to = "https://gfork.zh-hk.eu.org/ja/:splat"
+  status = 308
+
+[[redirects]]
   from = "/zh-hans/scripts/by-site/*"
   to = "https://home.greasyfork.org.cn/s?q=&sort=&filter_locale=0&site=:splat"
   status = 307

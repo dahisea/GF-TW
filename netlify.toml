@@ -5,57 +5,57 @@
 
 [[redirects]]
   from = "/ads.txt"
-  to = "https://cdn.greasyfork.org.cn/ads.txt"
+  to = "https://home.greasyfork.org.cn/ads.txt"
   status = 200
 
 [[redirects]]
   from = "/404"
-  to = "https://cdn.greasyfork.org.cn/default"
+  to = "https://home.greasyfork.org.cn/default"
   status = 200
 
 [[redirects]]
   from = "/sitemap.xml"
-  to = "https://cdn.greasyfork.org.cn/sitemap.xml"
+  to = "https://home.greasyfork.org.cn/sitemap.xml"
   status = 200
 
 [[redirects]]
   from = "/site.webmanifest"
-  to = "https://cdn.greasyfork.org.cn/site.webmanifest"
+  to = "https://home.greasyfork.org.cn/site.webmanifest"
   status = 200
 
 [[redirects]]
   from = "/favicon-32x32.png"
-  to = "https://cdn.greasyfork.org.cn/favicon-32x32.png"
+  to = "https://home.greasyfork.org.cn/favicon-32x32.png"
   status = 200
 
 [[redirects]]
   from = "/favicon-16x16.png"
-  to = "https://cdn.greasyfork.org.cn/favicon-16x16.png"
+  to = "https://home.greasyfork.org.cn/favicon-16x16.png"
   status = 200
 
 [[redirects]]
   from = "/favicon.ico"
-  to = "https://cdn.greasyfork.org.cn/favicon.ico"
+  to = "https://home.greasyfork.org.cn/favicon.ico"
   status = 200
 
 [[redirects]]
   from = "/apple-touch-icon.png"
-  to = "https://cdn.greasyfork.org.cn/apple-touch-icon.png"
+  to = "https://home.greasyfork.org.cn/apple-touch-icon.png"
   status = 200
 
 [[redirects]]
   from = "/android-chrome-512x512.png"
-  to = "https://cdn.greasyfork.org.cn/android-chrome-512x512.png"
+  to = "https://home.greasyfork.org.cn/android-chrome-512x512.png"
   status = 200
 
 [[redirects]]
   from = "/android-chrome-192x192.png"
-  to = "https://cdn.greasyfork.org.cn/android-chrome-192x192.png"
+  to = "https://home.greasyfork.org.cn/android-chrome-192x192.png"
   status = 200
 
 [[redirects]]
   from = "/vite/assets/*"
-  to = "https://cdn.greasyfork.org.cn/vite/assets/:splat"
+  to = "https://home.greasyfork.org.cn/vite/assets/:splat"
   status = 200
 
 [[redirects]]
